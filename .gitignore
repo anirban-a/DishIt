@@ -53,3 +53,6 @@ mvnw
 
 # Ignore Gradle-specific files
 .gradle/
+
+src/main/resources/application-dev*
+DockerVolume
